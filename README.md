@@ -70,10 +70,12 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](/uploads/sample1.png)
-[![Product Name Screen Shot][product-screenshot]](/uploads/sample2.png)
-[![Product Name Screen Shot][product-screenshot]](/uploads/sample3.png)
+* Login Page
+[![Product Name Screen Shot 1][product-screenshot-1]](/uploads/sample1.png)
+* Join to meeting
+[![Product Name Screen Shot 2][product-screenshot-2]](/uploads/sample2.png)
+* Admin Page
+[![Product Name Screen Shot 3][product-screenshot-3]](/uploads/sample3.png)
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
@@ -170,15 +172,18 @@ Project Link: [https://github.com/hoanghoa12345/WeMeet-Web-Application](https://
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/hoanghoa12345/repo.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/hoanghoa12345/WeMeet-Web-Application.svg?style=for-the-badge
 [contributors-url]: https://github.com/hoanghoa12345/WeMeet-Web-Application/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/hoanghoa12345/repo.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/hoanghoa12345/WeMeet-Web-Application.svg?style=for-the-badge
 [forks-url]: https://github.com/hoanghoa12345/WeMeet-Web-Application/network/members
-[stars-shield]: https://img.shields.io/github/stars/hoanghoa12345/repo.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/hoanghoa12345/WeMeet-Web-Application.svg?style=for-the-badge
 [stars-url]: https://github.com/hoanghoa12345/WeMeet-Web-Application/stargazers
-[issues-shield]: https://img.shields.io/github/issues/hoanghoa12345/repo.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/hoanghoa12345/WeMeet-Web-Application.svg?style=for-the-badge
 [issues-url]: https://github.com/hoanghoa12345/WeMeet-Web-Application/issues
-[license-shield]: https://img.shields.io/github/license/hoanghoa12345/repo.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/hoanghoa12345/WeMeet-Web-Application.svg?style=for-the-badge
 [license-url]: https://github.com/hoanghoa12345/WeMeet-Web-Application/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/hoanghoa12345
+[product-screenshot-1]: /uploads/sample1.png
+[product-screenshot-2]: /uploads/sample2.png
+[product-screenshot-3]: /uploads/sample3.png
